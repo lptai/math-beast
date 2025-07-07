@@ -1,5 +1,5 @@
 // src/translations.ts
-import type { Translations } from './types';
+import type { Translations } from '../types';
 
 const translations: Translations = {
     en: {
